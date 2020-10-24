@@ -1,0 +1,3 @@
+(executables
+ (names stickfig)
+ (libraries mocap stdio base owl))
